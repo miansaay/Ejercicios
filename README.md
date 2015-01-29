@@ -1,2 +1,2 @@
 # Ejercicios
-Ejercicios hechos en clase
+Ejercicios simples hechos en clase
